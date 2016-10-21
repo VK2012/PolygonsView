@@ -1,5 +1,6 @@
 # PolygonsView
-仿造LOL掌上英雄联盟能力图 原理参考自:https://github.com/jiangzehui/polygonsview
+- 仿造LOL掌上英雄联盟能力图，练习之用
+- 原理参考自:https://github.com/jiangzehui/polygonsview
 
 # 掌上英雄联盟实际图
 ![image](https://github.com/VK2012/PolygonsView/raw/master/photo/lol.jpg ) 
