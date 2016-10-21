@@ -9,3 +9,7 @@
 
 # 动图
 ![image](https://github.com/VK2012/PolygonsView/raw/master/photo/p1.gif)
+
+# About Me
+If you have any suggestions, let me know.
+email:383345573@qq.com
